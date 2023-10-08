@@ -1,6 +1,8 @@
 # Simple PvP Edit
 
-**This Minecraft Resource Pack enhances the aesthetics of PvP, making it look more attractive, simple, and even potentially useful due to some of its features.**
+## Download
+
+All versions can be downloaded from [Modrinth](https://modrinth.com/resourcepack/simple-pvp-edit)
 
 ## Features
 
