@@ -2,7 +2,9 @@
 
 ## Download
 
+<p>
 All versions can be downloaded from [Modrinth](https://modrinth.com/resourcepack/simple-pvp-edit)
+</p>
 Beta,Alpha and Pre-release version only available on [Github](https://modrinth.com/resourcepack/simple-pvp-edit)
 
 ## Features
