@@ -1,5 +1,7 @@
 # Simple PvP Edit
 
+## Discontinued the project has been abandoned and will no longer receive updates!
+
 ## Download
 
 
