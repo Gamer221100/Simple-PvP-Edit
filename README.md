@@ -28,6 +28,8 @@ Beta,Alpha and Pre-release version only available on [Github](https://github.com
 
 ># Simple PvP Edit
 
+## ¡Descontinuado el proyecto ha sido abandonado y ya no recibirá mas actualizaciones!
+
 ## Download
 
 
